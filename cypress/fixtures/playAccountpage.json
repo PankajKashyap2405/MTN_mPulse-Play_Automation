@@ -1,0 +1,51 @@
+{
+    "home":{
+        "Accountpage":{
+            "myaccount":"My Account",
+            "menuAccount":"Manage Account",
+            "contactinf":"Contact Information",
+            "interest":"Interest Selection & Modifications",
+            "Managesubscptn":"Manage Subscription",
+            "myProfile":"My Profile",
+            "frstnme":"First Name",
+            "lstnam":"Last Name",
+            "nckname":"Nick Name",
+            "emailAdrs":"Email Address",
+            "mblenmbr":"Mobile Number",
+            "cancl":"Cancel",
+            "save":"Save",
+            "updtName":"Y'ello, mahesh",
+            "IntrestSection":"Interest Selection & Modifications",
+            "IntrestSectionText":"Select your interests. You can modify this anytime.",
+            "music":"Music",
+            "videos":"Videos",
+            "newsTrends":"News & Trends",
+            "lifestyle":"Lifestyle & Fashion",
+            "helath":"Health & Fitness",
+            "games":"Games & Lottery",
+            "food":"Food & Culinary",
+            "eductaion":"Education & Learning",
+            "msubscription":"Manage subscriptions",
+            "profilename":"Y'ello, maheshhh"
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
+
+    }
+
+}

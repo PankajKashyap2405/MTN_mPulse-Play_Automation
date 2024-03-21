@@ -1,0 +1,37 @@
+{ 
+    "recharge":{
+        "Airtime":{
+            "airtimeetxt":"Airtime Recharge",
+            "airtime":"Airtime Recharge",
+            "description":"Do Airtime Recharge for Self, Linked Numbers & Beneficiaries Numbers using NPG payment gateway",
+            "buy":"Buy for",
+            "desiredAmounttoBuy":"Enter desired Amount you want to Recharge",
+            "loginToView":"Login to view my profile. Click here",
+            "subTotale":"SubTotal",
+            "eNterMobile":"Enter mobile number",
+            "congMessg":"Congratulations! your phone number is eligible to purchase this product.",
+            "subtotel":"₦1000.00",
+            "ordersmmmry":"Checkout",
+            "contactInfo":"Contact Information",
+            "editButton":"Edit",
+            "firstnam":"First Name",
+            "payment":"Payment method",
+            "MakePaym":"Make Payment",
+            "error msg":"Please fill out all required fields",
+            "Success pop up":"You must confirm your account. Please check your email for the confirmation link.",
+            "passwordpopup1":"Password Strength: Weak",
+            "passwordpopup2":"Cannot contain your name or email address",
+            "passwordpopup3":"At least 8 characters",
+            "passwordpopup4":"Contains a number or symbol",
+            "errormag2":"Please select atleast one business interest",
+            "editmsg":"Edit personal information",
+            "signinwithfacebook":" Sign in with Facebook ",
+            "signinwithgoogle":"Sign in with Google",
+            "loginwithnumber":"Login with Mobile Number"
+            
+          
+            
+        }
+    }
+
+}

@@ -1,0 +1,45 @@
+{
+  "name": "ssp_cypressproject",
+  "version": "1.0.0",
+  "description": "by Pankaj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contact-headed": "npx cypress run --spec cypress/e2e/SelfServiceScripts/SelfService_ContacUs.feature --headed",
+    "contact-record": "npx cypress run --spec cypress/e2e/SelfServiceScripts/SelfService_ContacUs.feature --headed --record --key c13c7d17-f4fc-4a48-9f9e-64971b8e2b0e --headed",
+    "record-cloud-BulkSMS": "npx cypress run --spec cypress/e2e/SelfServiceScripts/SelfServiceBulkSMSCorpSMS.feature --record --key c13c7d17-f4fc-4a48-9f9e-64971b8e2b0e --headed"
+  },
+  "author": "pankaj",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.2",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@cucumber/messages": "^22.0.0",
+    "@popperjs/core": "^2.11.8",
+    "cypress-recurse": "^1.35.2",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "cypress": "^13.7.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^2.0.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": false,
+    "stepDefinitions": "cypress/e2e/test/stepdefinitions/*.{js,ts}",
+    "html": {
+      "enabled": true,
+      "output": "cypress/reports/cucumber-report.html"
+    },
+    "messages": {
+      "enabled": true
+    },
+    "include": [
+      "**/*.ts"
+    ]
+  },
+  "keywords": []
+}

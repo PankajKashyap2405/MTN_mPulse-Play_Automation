@@ -1,0 +1,8 @@
+{
+    "userRegistrationpage" :{
+        "userinformation" :{
+          "Errormessage": "Username / Email already exists"
+         
+        }
+    }
+}

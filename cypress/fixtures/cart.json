@@ -1,0 +1,25 @@
+{
+"CartPage" :{
+    "Cartdetails" : {
+        "CartItems" :"Cart (0 items)",
+        "orderSumary":"Your order summary",
+        "noItemsInCart":"You have no items in your shopping cart.",
+        "continueshopping":"Click here to continue shopping.",
+        "promoCode" :"Do you have a promo code?",
+        "ApplyButton":"Apply",
+        "ProceedtoPay":"Proceed to pay",
+        "continueWithShopping":"Continue Shopping",
+        "payWithBelowOptions":"You can buy with below payment options",
+        "Planss":"Data",
+        "wechat":"50MB Wechat Weekly Plan",
+        "mbfield":"Enter mobile number",
+        "eligibiltyNumber":"Congratulations! your phone number is eligible to purchase this product.",
+        "ShipCart":"Billing address",
+        "elgbltyNmbr":"Congratulations! your phone number is eligible to purchase this product.",
+        "gustchckt":"Guest checkout",
+        "npaymnt":"Payment",
+        "userchckt":"Checkout"
+         
+    }
+}
+}

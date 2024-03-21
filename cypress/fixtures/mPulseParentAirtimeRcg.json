@@ -1,0 +1,38 @@
+{
+    "Home":{
+        "rechrge":{
+            "rchrge":"Airtime Recharge",
+            "rechrgeDesc":"Do Airtime Recharge for Self, Linked Numbers & Beneficiaries Numbers using NPG payment gateway",
+            "mobilenmbrLabel":"Enter MTN Number",
+            "amountLabel":"Amount",
+            "Artm200":"₦200",
+            "Artm300":"₦300",
+            "Artm400":"₦400",
+            "Artm500":"₦500",
+            "Artm600":"₦600",
+            "Artm700":"₦700",
+            "Artm800":"₦800",
+            "Artm1000":"₦1000",
+            "RechrgeBtn":"Recharge now",
+            "SelectAmntText":"Airtime Recharge Now recharge using select amount",
+            "cartt":"Cart",
+            "airtimePrdct":"Airtime Recharge"
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
+
+    }
+}

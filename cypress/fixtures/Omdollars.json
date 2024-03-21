@@ -1,0 +1,21 @@
+{
+  "ProjectOwner" :{
+    "Supervisor" :{
+     "ProjectOwner" : "Project Owner",
+     "confirmation": "Confirmation",
+     "LoginLabel": "Log In",
+     "Super": "Supervisor",
+     "Vol":"Login Successfull",
+      "succes":"Registration Successfull",
+      "OmVolunteer" : "Volunteer",
+       "Bidpro":"Bid Projects",
+       "bidder":"View Bidder List",
+       "pname":"Project Name",
+       "Assmessage":"Assigned Successfully",
+       "ProjectVname":"ABC TEST",
+       "tasksuccess":"Task Created Successfully"
+       
+  }
+}
+ 
+}

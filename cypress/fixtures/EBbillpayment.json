@@ -1,0 +1,30 @@
+{ 
+    "Billpayment":{
+
+        "commonDetails":
+        {
+            "Pay Bill" : "Pay bill",
+            "successNotification": "Success",
+            "status": "Active"
+        },
+        "AcDetailsOf2000008721":
+        {
+            
+            "name": "",
+            "duebills": "",
+            "OutStAmOption" : "Total outstanding amount",
+            "excessAmount" : "6900",
+            "mobileNumber" : "09132058977",
+            "totalAmount": "$11,000,009,000.00",
+            "invoiceNo1" : "FINV-20000087211-21",
+            "invoiceNo2" : "FINV-20000087215-20",
+            "invoiceNo3" : "FINV-20000087213-20",
+            "invoiceNo4" : "FINV-20000087211-20",
+            "excessPayOption" : "Do you want to make additional payment?",
+            "excessamountMsg": "Payment in excess of your billed amount will be distributed as airtime to your individual services if you are on SME Category 1"
+            
+        }
+
+    }
+
+}

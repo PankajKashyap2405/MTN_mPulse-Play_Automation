@@ -1,0 +1,9 @@
+{
+  "Admin" :{
+     "dashboard" : "Dashboard",
+     "confirmation": "Confirmation",
+     "adminLoginLabel": "Admin Login"
+
+
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "Cartandcheckoutpage" :{
+        "Cartandcheckoutdetails" :{
+          "Cart": "Cart (0 items)",
+          "shoppingCartEmpty" : "You have no items in your shopping cart."
+        }
+    }
+}

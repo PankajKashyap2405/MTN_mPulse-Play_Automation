@@ -1,0 +1,22 @@
+{
+    "Home":{
+        "Bundle":{
+        "Profilename":"ANTHONY UZOR",
+        "buybundle":"Education Bundles",
+        "dailybndle":"250MB Daily Bundle",
+        "bynowPopup":"Education Bundle",
+        "cart":"Cart",
+        "checkout":"Choose payment mode",
+        "invoice":"Invoice",
+        "successmsg":"Your bundle purchase was successfully completed"
+
+
+
+
+
+
+
+
+        }
+    }
+}

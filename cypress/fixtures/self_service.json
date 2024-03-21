@@ -1,0 +1,147 @@
+{ 
+    "Header": 
+    {
+        "Lint_Text":
+        {
+            "Logo" : "LogoImage",
+            "Shop": "Shop",
+            "Play": "Play",
+            "Business": "Business",
+            "Other": "Other",
+            "Help": "Help",
+            "Explore MTN": "Explore MTN",
+            "Breadcrumbs_contactUs": "Contact us"
+        },
+        "Link_Urls":
+        {
+            
+            "LogoUrl": "https://selfservicepreprod.mtn.ng/",
+            "Shop": "https://shop.mtn.ng/",
+            "Play": "https://www.mtn.ng/play/",
+            "Business": "https://selfservicepreprod.mtn.ng/business",
+            "Other": "https://selfservicepreprod.mtn.ng/#others"         
+        }
+    },
+    "Footer":
+    {
+        "Lint_Text":
+        {
+            "Contact us" : "Contact us",
+            "Recharge": "Recharge",
+            "Share & Borrow": "Share & Borrow"
+        },
+        "Link_Urls":
+        {
+            
+            "Contact us": "https://selfservicepreprod.mtn.ng/contact-us"            
+        }
+
+    },
+    "ContactUsPage":
+    {
+        "ContactDetails":
+        {
+            "mail_heading": "Write to us",
+            "mail_paragraph": "Our friendly team is here to help.",
+            "mail_anchorText": "mailto:info@mtn.com",
+            "location_heading": "Visit us at",
+            "location_paragraph": "Come say hello to our office.",
+            "location_anchorText": "MTN Plaza, No 1, Awolowo Road, Falomo, Ikoyi, Lagos",
+            "phone_heading": "Call us",
+            "phone_tel300": "tel:300",
+            "phone_tel080310300" : "tel:080310300",
+            "phone_paragraphText": "Call 300 from any MTN number and080310300 from a Non-MTN number",
+
+            "h4_heading": "Need Help ?",
+            "h3_heading": "We are here to assist you!",
+            "sub_heading": "Feel free to reach out to us! You can easily get in touch with our team by filling out the contact form below. We value your feedback, inquiries, and suggestions.",
+            
+            "first_name": "First name *",
+            "placeholder_fname": "pankaj",
+            "last_name": "Last name *",
+            "placeholder_lname": "tester",
+            "phone_noText": "Phone Number *",
+            "placeholder_phoneNo": "09132058977",
+            "emailText": "Email",
+            "subject" : "Subject *",
+            "subjectText" : "Test",
+            "placeholder_email": "pankaj@ekfrazo.in", 
+            "message_note": "Tell us anything else we need to know*",
+            "message_placeholderText": "Type your text here..",
+            "message_boxTypeText" : "this is a automation script test message for msg description", 
+            "submitButton": "Submit",
+            "Success": "Sucess!"
+        }
+    },
+    "BulkSMScorporate":
+    {
+        "SMS":
+        {
+            "smsProduct1": "BulkSpTest"
+
+        },
+        "USSD":
+        {
+            "ussdProduct1": "*580"
+        }
+       
+    },
+    "MasterDebitCardPIN1":
+    {
+        "CardNumber": "5100000000005007",
+        "ExpiryDate": "0825",
+        "CVV": "000",
+        "PIN": "123456"
+
+    },
+    "MasterDebitCard1":
+    {
+        "CardNumber": "5204730000002662",
+        "ExpiryDate": "0125",
+        "CVV": "100"
+
+    },
+    "VisaDebitCard1":
+    {
+        "CardNumber": "4007589999999961",
+        "ExpiryDate": "0627",
+        "CVV": "111"
+    },
+
+    "ReceiptDetails": 
+    {   
+        "sucessPayment": "Payment Successful",
+        "successMessage": "Your purchase was successful"
+    },
+    "Billpayment":{
+
+        "commonDetails":
+        {
+            "Pay Bill" : "Pay bill",
+            "successNotification": "Success",
+            "status": "Active"
+        },
+        "AcDetailsOf2000008721":
+        {
+            
+            "name": "",
+            "duebills": "",
+            "OutStAmOption" : "Total outstanding amount",
+            "excessAmount" : "500",
+            "editedInvoiceAmount" : "50",
+            "mobileNumber" : "09132058977",
+            "totalAmount": "$11,000,009,000.00",
+            "invoiceNo1" : "FINV-20000087211-21",
+            "invoiceNo2" : "FINV-20000087215-20",
+            "invoiceNo3" : "FINV-20000087213-20",
+            "invoiceNo4" : "FINV-20000087211-20",
+            "excessPayOption" : "Do you want to make additional payment?",
+            "excessamountMsg": "Payment in excess of your billed amount will be distributed as airtime to your individual services if you are on SME Category 1"
+            
+        }
+
+    }
+    
+
+
+}

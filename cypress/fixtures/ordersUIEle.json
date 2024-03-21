@@ -1,0 +1,27 @@
+{
+    "ordersPage" :{
+      "OrderDetails" : {
+
+        "myOrders" : "My orders",
+        "video1":"Video",
+        "video2":"Videos",
+        "validatevideonavigate":"Video Box",
+        "ValidateAllProducts":"What's trending",
+        "validateMusicbanners":"Music",
+        "validateMusicProduct":"Mdundo",
+        "validatemusic":"Music",
+        "validateGames":"Games",
+        "validatgamesproduct":"Game Arena",
+        "validatgamesproduct2":"MTN Gameworld",
+        "validatgamesproduct3":"Go Games",
+        "validateGamesbanners":"Games",
+        "validateLifestyle":"Lifestyle",
+        "validatLifestyleproduct":"Home",
+        "validateLifestylebanners":"Lifestyle",
+        "validatetopestry":"Tapestry"
+        
+      
+
+      }
+    }
+}    

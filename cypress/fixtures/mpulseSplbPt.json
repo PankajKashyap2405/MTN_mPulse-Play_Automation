@@ -1,0 +1,12 @@
+{
+    "HomePage" :{
+        "SpellingBeePage" :{
+            "SpellingBeePageHeader" : "How to play",
+            "SpellingBeeButton1" : "Play Annually",
+           "SpellingBeePopUp1"  : "Are you ready for mPulse Spelling Bee Quiz?",
+           "SpellingBeeButton2" : "Take practice test",
+           "PracticeTest" : "Practice Test",
+           "finalResult" : "j"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "home":{
+        "Header":{
+            "parntdshbrd":"Parent Dashboard",
+            "name":"maheshhh k",
+            "number":"09132059720",
+            "data":"Data",
+            "airtme":"Airtime",
+            "bybndle":"Buy Bundle",
+            "rechrge":"Recharge",
+            "tarif":"Tariff :",
+            "acnttype":"Account type : ",
+            "parntAcnt":"Parent",
+            "editprfl":"Edit profile",
+            "edtprfl":"Edit Profile",
+            "upldprfpic":"Upload Picture",
+            "firstnme":"First name",
+            "lstnme":"Last name",
+            "emlfld":"Email address",
+            "clsbtn":"Close",
+            "updtPrf":"Update Profile",
+            "sucssmsg":"Profile updated successfully!",
+            "buybndle":"Education Bundles",
+            "airtmerechrge":"Airtime Recharge"
+            
+
+
+
+
+
+
+
+        }
+    }
+}

@@ -1,0 +1,9 @@
+
+{
+    "rechargetransactionPage" :{
+        "RechargeTransactionDetails" : {
+            "Manage Profile":"Manage Transaction",
+              "Recharge":"Recharge Transactions"
+        }
+    }
+    }

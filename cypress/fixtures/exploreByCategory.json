@@ -1,0 +1,9 @@
+{
+  "AllProductsCategory": {
+    "prodDevices": "Devices",
+    "prodDataBundles": "Data Bundles",
+    "prodEntServices": "Enterprise Services",
+    "prodCloudServices": "Cloud Services",
+    "prodAirtimeRecharge": "Airtime Recharge"
+  }
+}

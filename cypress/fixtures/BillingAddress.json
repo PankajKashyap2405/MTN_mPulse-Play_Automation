@@ -1,0 +1,22 @@
+{
+    "customerBillingAddressPage" :{
+        "customerBillingAddressdetails" : {
+            "firstName":"Tinuola",
+            "lastName":"Okunola",
+            "streetAddress": "40, Osolo way, Ajao Estate, opposite Domino Pizza Aswani,Lagos",
+            "state": "Lagos",
+            "stateValue":"1195",
+            "city": "Ajao Estate",
+            "cityValue": "Ajao Estate",
+            "phoneNumber": "07034970397",
+            "Address": "Tinuola Okunola",
+            "editFirstName": "Chloe",
+            "editAddress": "Chloe Okunola",
+            "Deleted": "You deleted the address."
+            
+        
+
+            
+        }
+    } 
+}
